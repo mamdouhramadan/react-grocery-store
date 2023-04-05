@@ -1,16 +1,14 @@
-import { useSelector } from "react-redux";
+import WebsiteLayout from "./layouts/WebsiteLayout";
+import ProductDetailsPage from "./pages/ProductDetails";
+
+
 
 const App = () => {
-  const general = useSelector(state => state.general);
   return (
     <div className="App">
-      <>
-        {
-          general.loading ?
-            <div>Loading...</div>
-            : <p>Not Loading</p>
-        }
-      </>
+      <WebsiteLayout>
+        <ProductDetailsPage />
+      </WebsiteLayout>
     </div>
   );
 }
