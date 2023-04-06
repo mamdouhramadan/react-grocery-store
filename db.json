@@ -1,0 +1,296 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Travel"
+            },
+            "date": "2019-01-01",
+            "image": "blog-1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Travel"
+            },
+            "date": "2019-01-01",
+            "image": "blog-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Travel"
+            },
+            "date": "2019-01-01",
+            "image": "blog-3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Travel"
+            },
+            "date": "2019-01-01",
+            "image": "blog-4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Travel"
+            },
+            "date": "2019-01-01",
+            "image": "blog-5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Food"
+            },
+            "date": "2019-01-01",
+            "image": "blog-6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Food"
+            },
+            "date": "2019-01-01",
+            "image": "blog-1.jpg"
+        },
+        {
+            "id": 8,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Food"
+            },
+            "date": "2019-01-01",
+            "image": "blog-3.jpg"
+        },
+        {
+            "id": 9,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Food"
+            },
+            "date": "2019-01-01",
+            "image": "blog-2.jpg"
+        },
+        {
+            "id": 10,
+            "title": "6 ways to prepare breakfast for 30",
+            "description": "Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat",
+            "comments": 4,
+            "category": {
+                "id": 1,
+                "name": "Food"
+            },
+            "date": "2019-01-01",
+            "image": "blog-3.jpg"
+        }
+    ],
+    "blog-categories": [
+        {
+            "id": 1,
+            "name": "Travel"
+        },
+        {
+            "id": 2,
+            "name": "Food"
+        },
+        {
+            "id": 3,
+            "name": "Lifestyle"
+        },
+        {
+            "id": 4,
+            "name": "Adventure"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Fresh Meat"
+        },
+        {
+            "id": 2,
+            "name": "Vegetables"
+        },
+        {
+            "id": 3,
+            "name": "Fruit & Nut Gifts"
+        },
+        {
+            "id": 4,
+            "name": "Fresh Berries"
+        },
+        {
+            "id": 5,
+            "name": "Ocean Foods"
+        },
+        {
+            "id": 6,
+            "name": "Butter & Eggs"
+        },
+        {
+            "id": 7,
+            "name": "Fastfood"
+        },
+        {
+            "id": 8,
+            "name": "Fresh Onion"
+        },
+        {
+            "id": 9,
+            "name": "Papayaya & Crisps"
+        },
+        {
+            "id": 10,
+            "name": "Oatmeal"
+        },
+        {
+            "id": 11,
+            "name": "Fresh Bananas"
+        }
+    ],
+    "prosucts": [
+        {
+            "id": 1,
+            "name": "Vetgetable’s Package",
+            "price": 100,
+            "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus.",
+            "information": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Donec rutrum congue leo eget malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus.<br/>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Cras ultricies ligula sed magna dictum porta. Cras ultricies ligula sed magna dictum porta. Sed porttitor lectus nibh. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Sed porttitor lectus nibh. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Proin eget tortor risus.",
+            "reviews": {
+                "count": 17,
+                "rating": 5,
+                "comments": [
+                    {
+                        "id": 1,
+                        "body": "some comment",
+                        "userId": 1
+                    },
+                    {
+                        "id": 2,
+                        "body": "some comment",
+                        "userId": 1
+                    },
+                    {
+                        "id": 3,
+                        "body": "some comment",
+                        "userId": 1
+                    }
+                ]
+            },
+            "available": true,
+            "shipping": {
+                "free": true,
+                "cost": 0
+            },
+            "weight": {
+                "value": 1,
+                "unit": "kg"
+            }
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Fresh Fruit",
+            "image": "cat-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Dried Fruit",
+            "image": "cat-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Vegetables",
+            "image": "cat-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "drink fruits",
+            "image": "cat-4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ocean Foods",
+            "image": "cat-5.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "Mamdouh Ramadan",
+        "email": "mamdouhalamassi@gmail.com",
+        "phone": "01000000000",
+        "address": "Cairo, Egypt",
+        "image": "profile.jpg",
+        "cover": "cover.jpg"
+    },
+    "social-media": [
+        {
+            "icon": "fa fa-facebook",
+            "link": "https://facebook.com"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "link": "https://twitter.com"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "link": "https://instagram.com"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://linkedin.com"
+        },
+        {
+            "icon": "fa fa-whatsapp",
+            "link": "https://whatsapp.com"
+        }
+    ],
+    "contact": {
+        "email": "info@store.com",
+        "phone": "+1 234 567 890",
+        "address": "1234 Street Name, City Name, United States"
+    }
+}
